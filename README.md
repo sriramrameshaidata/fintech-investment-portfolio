@@ -106,6 +106,26 @@ Contact: sriramramesh.aidata@gmail.com | [LinkedIn](https://www.linkedin.com/in/
 ![Portfolio Dashboard](screenshots/dashboard.png.png)
 
 
+# FinTech: Personalized Investment Portfolio
+
+This project is a personalized investment portfolio analysis tool created as part of the **FinTech Challenge 2024**. It helps users evaluate the performance of a custom stock portfolio compared to the S&P 500 benchmark.
+
+## Features
+- Enter custom stock tickers and portfolio weights.
+- Fetch real-time data from Yahoo Finance.
+- Compare portfolio performance against the S&P 500.
+- Download portfolio data as a CSV.
+
+## Demo
+[Live Demo](https://fintech-investment-portfolio.streamlit.app)
+
+## How to Run Locally
+Clone the repository and set up the environment:
+```bash
+git clone https://github.com/sriramarameshaidata/fintech-investment-portfolio.git
+cd fintech-investment-portfolio
+pip install -r requirements.txt
+streamlit run fintech_investment_app.py
 
 
 
