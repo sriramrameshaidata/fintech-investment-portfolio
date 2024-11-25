@@ -27,6 +27,23 @@ Screenshots
 License
 This project is licensed under the MIT License.
 
+
+## Use Cases
+
+This app can be valuable in several scenarios:
+
+- **Personal Investment Planning:** Helps individuals plan and simulate potential investment strategies.
+- **Comparing Portfolios:** Allows users to compare their custom portfolios against standard benchmarks like the S&P 500.
+- **Investment Decision-Making:** Provides insights and analytics to aid in making informed investment decisions.
+
+
+  ## Technologies Used
+
+- **Streamlit:** An open-source app framework for turning data scripts into shareable web apps.
+- **yfinance:** Provides methods for fetching historical market data from Yahoo Finance.
+- **matplotlib and pandas:** Used for creating static, interactive, and animated visualizations and data manipulation.
+  
+
 Author
 Sriram Ramesh
 Contact: sriramramesh.aidata@gmail.com | [LinkedIn](https://www.linkedin.com/in/iamsriramramesh/)
