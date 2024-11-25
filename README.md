@@ -55,6 +55,17 @@ Several exciting features are planned to enhance the capabilities of this invest
 - **Sharpe Ratio:** Calculate and display the Sharpe Ratio to assess the return per unit of risk, with a hypothetical risk-free rate (e.g., 3%).
 - **Max Drawdown:** Measure and show the largest single drop from peak to bottom in the investment portfolio's value, helping users understand potential losses.
 
+## Improve Visual Appeal
+
+To make the user interface more engaging and easier to use, the following visual enhancements are planned:
+
+### Customize Plot
+- **Interactive Charts:** Implement charts using `plotly` to enable interactive features such as zooming and tooltips.
+- **Enhanced Aesthetics:** Improve the visual presentation with user-friendly labels, legends, and a modern color palette.
+
+### Experiment with Grid Styles
+- **Gridlines:** Introduce both minor and major gridlines to the charts for better readability and precision in data visualization, utilizing either `matplotlib` or `plotly`.
+
 
 Author
 Sriram Ramesh
