@@ -102,6 +102,7 @@ Author
 Sriram Ramesh
 Contact: sriramramesh.aidata@gmail.com | [LinkedIn](https://www.linkedin.com/in/iamsriramramesh/)
 ## Screenshots
-![Portfolio Dashboard]![Portfolio Dashboard]!![Portfolio Dashboard](dashboard.png)
+![Portfolio Dashboard](dashboard.png)
+
 
 
