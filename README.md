@@ -66,6 +66,37 @@ To make the user interface more engaging and easier to use, the following visual
 ### Experiment with Grid Styles
 - **Gridlines:** Introduce both minor and major gridlines to the charts for better readability and precision in data visualization, utilizing either `matplotlib` or `plotly`.
 
+## Demo Enhancements
+
+To help new users understand how to make the most of the FinTech Investment Portfolio app, the following demo materials will be provided:
+
+## Optimize Deployment
+
+To ensure that the FinTech Investment Portfolio app is always running the latest version without manual intervention, the following CI/CD processes will be implemented:
+
+## Promotion
+
+To increase visibility and user engagement of the FinTech Investment Portfolio app, the following promotional activities will be undertaken:
+
+### Share on Platforms
+- **Social Media and Blogs:** The project will be shared on platforms like LinkedIn, Twitter, and Medium, including links to the GitHub repository and the live demo to attract a broader audience.
+- **Community Engagement:** Participation in relevant online communities such as Streamlit forums and Reddit r/learnprogramming will be increased to gain feedback and drive improvements.
+
+### Highlight Unique Features
+- **Feature Showcases:** Regular posts will highlight how the app allows users to personalize and analyze their investment portfolios with ease, demonstrating the app's value in investment planning and analysis.
+
+
+### Set Up GitHub Actions for CI/CD
+- **Automated Deployment:** A GitHub Actions workflow will be configured to automatically deploy the application to Streamlit Cloud upon any commits to the `main` branch.
+- **Workflow File:** A `.github/workflows/deploy.yml` file will be added to the repository to manage the integration with Streamlit Cloud.
+
+
+### Create a Video Walkthrough
+- **Video Tutorial:** A video will be created to demonstrate the setup process, how to customize portfolios, and how to interpret the comparison results. This video will be embedded directly into the README to provide an easy-to-follow visual guide.
+
+### Add More Screenshots
+- **Diverse App States:** Additional screenshots will be captured to showcase different states of the app, including successful portfolio setups and common error scenarios, such as mismatched weights and stocks.
+
 
 Author
 Sriram Ramesh
