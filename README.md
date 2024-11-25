@@ -16,3 +16,39 @@ This project is a personalized investment portfolio analysis tool created as par
    ```bash
    git clone https://github.com/sriramarameshaidata/fintech-investment-portfolio.git
    cd fintech-investment-portfolio
+
+## Use Cases
+
+- **Personal Investment Planning:** Helps individuals plan and simulate potential investment strategies.
+- **Comparing Portfolios:** Allows users to compare their custom portfolios against standard benchmarks like the S&P 500.
+- **Investment Decision-Making:** Provides insights and analytics to aid in making informed investment decisions.
+
+## Technologies Used
+
+- **Streamlit:** An open-source app framework for turning data scripts into shareable web apps.
+- **yfinance:** Provides methods for fetching historical market data from Yahoo Finance.
+- **Matplotlib and pandas:** Used for creating static, interactive, and animated visualizations and data manipulation.
+
+## Future Features
+
+- **Allow Selection of Multiple Benchmarks:** Users can choose from benchmarks like NASDAQ, Dow Jones, etc.
+- **Display Risk Metrics:** Show volatility, Sharpe ratio, and max drawdown to assess risks and returns.
+
+## Improve Visual Appeal
+
+- **Customize Plot:** Implement interactive features using `plotly`.
+- **Experiment with Grid Styles:** Enhance readability with minor and major gridlines.
+
+## Screenshots
+
+![Portfolio Dashboard](screenshots/dashboard.png)
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+**Sriram A Ramesh**
+- **Email:** sriramramesh.aidata@gmail.com
+- **LinkedIn:** [iamsriramramesh](https://www.linkedin.com/in/iamsriramramesh/)
