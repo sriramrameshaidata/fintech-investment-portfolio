@@ -41,7 +41,7 @@ This project is a personalized investment portfolio analysis tool created as par
 
 ## Screenshots
 
-![Portfolio Dashboard](screenshots/dashboard.png)
+![Portfolio Dashboard](screenshots/dashboard.png.png)
 
 ## License
 
